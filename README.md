@@ -1,4 +1,4 @@
-# Nepal Local Election 2079
+# Nepal Local Election 2079 - Candidates List
 
 * [Data Collected from](https://github.com/ErKiran/2079-local-election-candidate-list) 
 
