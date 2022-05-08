@@ -34,6 +34,6 @@ fluidPage(
   mainPanel(
     dataTableOutput("table"),
     hr(),
-    tags$a(href = "https://github.com/bjungbogati/ppp_salary_converter", "Source Code: GitHub")
+    tags$a(href = "https://github.com/rugnepal/nepal-local-election-2079", "Source Code: GitHub")
   )
 )
