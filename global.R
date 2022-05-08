@@ -2,6 +2,7 @@
 
 library(shiny)
 library(DT)
+library(metathis)
 
 candidates_list <- readRDS("local-election-candidates/data/candidates_list.rds")
 filter_list <- readRDS("local-election-candidates/data/filter_list.rds")

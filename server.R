@@ -46,9 +46,9 @@ function(input, output, session) {
         options = list(
           dom = "t",
           deferRender = TRUE,
-          scrollY = 400,
+          scrollY = 500,
           scroller = TRUE
-        )
+        ), rownames= FALSE
       )
     })
   })
