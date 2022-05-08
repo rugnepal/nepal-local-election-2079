@@ -49,7 +49,7 @@ fluidPage(
   mainPanel(
     dataTableOutput("table"),
     hr(),
-    tags$body(style = "overflow-y:hidden;height:100%;"),
+    # tags$body(style = "overflow-y:hidden;height:100%;"),
     img(
       src = "https://english.onlinekhabar.com/wp-content/uploads/2021/08/election-commission.jpg",
       align = "left", style = "position: absolute; opacity: 0.4; width:85%;"
