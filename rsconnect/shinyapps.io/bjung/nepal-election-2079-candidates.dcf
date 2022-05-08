@@ -5,9 +5,9 @@ account: bjung
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6257805
-bundleId: 5883499
+bundleId: 5883517
 url: https://bjung.shinyapps.io/nepal-election-2079-candidates/
-when: 1652018131.73947
-lastSyncTime: 1652018131.7395
+when: 1652018870.9172
+lastSyncTime: 1652018870.91722
 asMultiple: FALSE
 asStatic: FALSE
