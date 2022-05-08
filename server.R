@@ -46,7 +46,7 @@ function(input, output, session) {
         options = list(
           dom = "t",
           deferRender = TRUE,
-          scrollY = 350,
+          scrollY = 400,
           scroller = TRUE
         )
       )
